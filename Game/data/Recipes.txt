@@ -1,0 +1,18 @@
+<recipe1>
+   result:{type:"item", id:7, amount:1}
+   <materials>
+   {type:"item", id:5, amount:1, cons:false}
+   {type:"item", id:6, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   success:80
+   successGain:2
+   level:1
+   category:Alchemy
+   xp:10
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:true
+<recipe1>
