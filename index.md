@@ -1,4 +1,4 @@
-# Tech Demo
+# Game Releases
 ## Willow
 [Tech Demo](/TechDemo/index.html)
 
