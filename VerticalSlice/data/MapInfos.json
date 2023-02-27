@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Bedroom","order":3,"parentId":0,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
-{"id":2,"expanded":false,"name":"Bathroom","order":1,"parentId":0,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
-{"id":3,"expanded":true,"name":"slidingPuzzle1","order":2,"parentId":0,"scrollX":652.6666666666666,"scrollY":399.6666666666667}
+{"id":1,"expanded":false,"name":"Bedroom","order":3,"parentId":0,"scrollX":819,"scrollY":477},
+{"id":2,"expanded":false,"name":"Bathroom","order":1,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
+{"id":3,"expanded":true,"name":"slidingPuzzle1","order":2,"parentId":0,"scrollX":819,"scrollY":477}
 ]
