@@ -8,8 +8,8 @@
 
 [Vertical Slice Download](VerticalSlice.zip)
 
-[Beta] (/Beta/index.html)
+[Beta](/Beta/index.html)
 
-[Beta Download] (Beta.zip)
+[Beta Download](Beta.zip)
 
 ## HighImpactStudios
