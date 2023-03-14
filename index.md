@@ -24,4 +24,4 @@
 
 ## Surveys
 
-[Willow Beta Survey](https://docs.google.com/document/d/1UpKnZBpIXOV0FfMYphF_Nbb9OQrgDzo9-acd21eWnhk/edit?usp=sharing)
+[Willow Beta Survey - OPTIONAL Script](https://docs.google.com/document/d/1UpKnZBpIXOV0FfMYphF_Nbb9OQrgDzo9-acd21eWnhk/edit?usp=sharing)
