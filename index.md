@@ -12,6 +12,10 @@
 
 [Beta Download](Beta.zip)
 
+## Surveys
+
+[Willow Beta Survey](https://forms.gle/payXQppvXwev2dz68)
+
 ## HighImpactStudios
 ### Team Members
 * EP: Stacy Ma
@@ -22,6 +26,6 @@
 * Ashley Biddiscombe
 * Bao Ng
 
-## Surveys
+## Extras
 
-[Willow Beta Survey - OPTIONAL Script](https://docs.google.com/document/d/1UpKnZBpIXOV0FfMYphF_Nbb9OQrgDzo9-acd21eWnhk/edit?usp=sharing)
+[Willow Beta OPTIONAL Script](https://docs.google.com/document/d/1UpKnZBpIXOV0FfMYphF_Nbb9OQrgDzo9-acd21eWnhk/edit?usp=sharing)
