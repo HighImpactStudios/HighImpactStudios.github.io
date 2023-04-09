@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Bedroom","order":3,"parentId":0,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
-{"id":2,"expanded":true,"name":"Bathroom","order":1,"parentId":0,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
+{"id":2,"expanded":true,"name":"Bathroom","order":1,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
 {"id":3,"expanded":true,"name":"slidingPuzzle1","order":2,"parentId":2,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
 {"id":4,"expanded":true,"name":"computer","order":6,"parentId":1,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
 {"id":5,"expanded":false,"name":"Bedroom2","order":5,"parentId":1,"scrollX":652.6666666666666,"scrollY":399.6666666666667},
