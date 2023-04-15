@@ -14,6 +14,8 @@
 
 [Gold Release](/GoldRelease/index.html)
 
+[Gold Release Download](GoldRelease.zip)
+
 ## Surveys
 
 [Willow Beta Survey](https://forms.gle/7hoPYpmpswkQ85to6)
